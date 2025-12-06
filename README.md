@@ -1,0 +1,54 @@
+# TodoMVC Automation – Playwright
+
+This project contains automated end-to-end tests for the TodoMVC application  
+using **Playwright (TypeScript)**, Page Object Model, and fixtures.
+
+---
+
+## Features
+
+- Page Object Model (POM)
+- Fixtures for browser setup
+- Clean and reusable locators
+- Automated high-priority scenarios
+- Organized project structure
+
+---
+
+## Setup & Run Tests
+
+Clone the repository:
+git clone <repo>
+cd project
+
+## Install dependencies:
+
+npm install
+npx playwright install
+
+## Run tests
+
+npx playwright test
+
+## Project Structure
+
+src/
+├─ tests/ # Test scripts
+├─ pages/ # Page Object Model
+├─ fixtures/ # Browser/page fixtures
+└─ utils/ # Helper utilities
+
+## Scenarios Automated
+
+Add a new todo
+Mark a todo as completed
+Delete a todo
+Filter todos
+Clear completed
+Negative: empty todo
+
+## Doc
+
+docs/PartA_Manual_Testing.pdf
+
+## Sherrie Ann Manguiat
