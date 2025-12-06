@@ -20,7 +20,7 @@ using **Playwright (TypeScript)**, Page Object Model, and fixtures.
 Clone the repository:
 
 - git clone https://github.com/mgshian/playwright-todomvc-automation.git
-- cd project
+- cd playwright-todomvc-automation
 
 ## Install dependencies:
 
