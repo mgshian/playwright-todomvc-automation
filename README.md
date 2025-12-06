@@ -41,12 +41,13 @@ src/
 
 ## Scenarios Automated
 
-Add a new todo
-Mark a todo as completed
-Delete a todo
-Filter todos
-Clear completed
-Negative: empty todo
+- Add a new todo
+- Mark a todo as completed
+- Delete a todo
+- Filter completed todos
+- Clear completed todos
+- Negative: Should NOT add an empty todo
+- Negative: Allow duplicate todos
 
 ## Doc
 
