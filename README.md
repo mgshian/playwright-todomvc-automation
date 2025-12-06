@@ -18,17 +18,18 @@ using **Playwright (TypeScript)**, Page Object Model, and fixtures.
 ## Setup & Run Tests
 
 Clone the repository:
-git clone <repo>
-cd project
+
+- git clone <repo>
+- cd project
 
 ## Install dependencies:
 
-npm install
-npx playwright install
+- npm install
+- npx playwright install
 
 ## Run tests
 
-npx playwright test
+- npx playwright test
 
 ## Project Structure
 
@@ -51,6 +52,6 @@ src/
 
 ## Doc
 
-docs/PartA_Manual_Testing.pdf
+- docs/PartA_Manual_Testing.pdf
 
-## Sherrie Ann Manguiat
+## Author - Sherrie Ann Manguiat
