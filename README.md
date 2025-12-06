@@ -38,7 +38,6 @@ src/
 - tests/todo.spec.ts
 - pages/todo-page.ts
 - fixtures/playwright-fixtures.ts
-- helpers/utils.ts
 
 ## Scenarios Automated
 
