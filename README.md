@@ -33,10 +33,10 @@ npx playwright test
 ## Project Structure
 
 src/
-├─ tests/ # Test scripts
-├─ pages/ # Page Object Model
-├─ fixtures/ # Browser/page fixtures
-└─ utils/ # Helper utilities
+tests/todo.spec.ts
+pages/todo-page.ts
+fixtures/playwright-fixtures.ts
+helpers/utils.ts
 
 ## Scenarios Automated
 
