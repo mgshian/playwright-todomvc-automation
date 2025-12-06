@@ -29,7 +29,7 @@ Clone the repository:
 
 ## Run tests
 
-- npx playwright test --headless
+- npx playwright test --headed
 
 ## Project Structure
 
